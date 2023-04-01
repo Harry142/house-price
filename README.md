@@ -25,8 +25,6 @@ bash
 Copy code
 python predict.py
 The predictions will be saved to the predictions directory.
-Results
-The best performing model was a Gradient Boosting Regressor with a mean absolute error of $100,000 on the test data.
 
 Screenshot
 Map of Melbourne showing house prices
