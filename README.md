@@ -9,6 +9,7 @@ models: contains the trained models
 notebooks: contains the Jupyter notebooks used for data exploration, model training, and evaluation
 predictions: contains the output predictions from the trained models
 src: contains the source code for the project
+
 Getting Started
 Clone the repository to your local machine:
 bash
