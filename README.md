@@ -1,13 +1,12 @@
 # house-price-visualization
 Melbourne House Price Visualization.
 
-This is a machine learning project that predicts house prices in Melbourne, Australia. The project uses historical data on house prices in Melbourne to train a model that can predict the price of a new house given a set of features such as number of rooms, location, and size.
+This is a machine learning project that visualizes house prices in Melbourne, Australia. The project uses historical data on house prices in Melbourne to train a model that can predict the price of a new house given a set of features such as number of rooms, location, and size.
 
 Project Structure
 data: contains the training and testing data files
 models: contains the trained models
 notebooks: contains the Jupyter notebooks used for data exploration, model training, and evaluation
-predictions: contains the output predictions from the trained models
 src: contains the source code for the project
 
 Getting Started
@@ -20,13 +19,6 @@ bash
 Copy code
 pip install -r requirements.txt
 Navigate to the notebooks directory and run the Jupyter notebooks to explore the data and train the models.
-
-Once you have trained a model, run the predict.py script to generate predictions on the test data:
-
-bash
-Copy code
-python predict.py
-The predictions will be saved to the predictions directory.
 
 Screenshot
 Map of Melbourne showing house prices
