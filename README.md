@@ -1,4 +1,4 @@
-# house-price-prediction
+# house-price-visualization
 Melbourne House Price Prediction.
 
 This is a machine learning project that predicts house prices in Melbourne, Australia. The project uses historical data on house prices in Melbourne to train a model that can predict the price of a new house given a set of features such as number of rooms, location, and size.
